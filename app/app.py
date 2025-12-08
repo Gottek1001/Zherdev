@@ -21,7 +21,7 @@ def home():
     </head>
     <body>
         <div class="container">
-            <h1>🚀 Мой DevOps проект</h1>
+            <h1>т Мой DevOps проект</h1>
             <div class="info">
                 <h2>Информация о студенте:</h2>
                 <p><strong>ФИО:</strong> {student_name}</p>
